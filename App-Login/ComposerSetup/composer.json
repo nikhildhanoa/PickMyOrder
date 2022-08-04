@@ -1,0 +1,5 @@
+{
+    "require": {
+        "lanlin/nylas-php": "^5.1"
+    }
+}

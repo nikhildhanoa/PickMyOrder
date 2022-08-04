@@ -1,0 +1,19 @@
+.small_box_input .btn.dropdown-togglen{
+	padding: 4px 10px;
+    height: 38px;
+}
+#kt_datatable .datatable-body .i.fa.fa-caret-right{
+	display: none;
+}
+.placholder_class input::placeholder{
+	color: #ccc;
+}
+.cardbody_new{
+	
+	margin-top:50px;
+}
+.titles{
+	color:red;
+}
+
+	
